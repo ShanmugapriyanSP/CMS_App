@@ -1,6 +1,8 @@
 # Content Management Application
+![lang](https://img.shields.io/badge/Python-3.6-green)
+![tech](https://img.shields.io/badge/WebFramework-Flask-blue)
 
-Web Application built on Flask framework for content/blogs management
+Web Application built on Flask framework for content/blogs management.
 
 Home page
 ![png](readme-resources/home_page.PNG)
